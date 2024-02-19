@@ -1,4 +1,5 @@
-### Olá! Eu sou o Gustavo Merschbacher 🤙
+### Olá! Eu sou o Gustavo Merschbacher 🤙 
+#### Atualmente estou no 2° ano da Etec, cursando Desenvolvimento de Sistemas
 
 [![@Instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gust4v0_s4mp4i0/)
 [![@Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-merschbacher-533ab82b5/)
