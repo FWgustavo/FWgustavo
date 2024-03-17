@@ -6,7 +6,6 @@
 [![@Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white
 )](https://steamcommunity.com/id/guh_fw/)
 
-![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=FWgustavo&show_icons=true&theme=dracula&hide_border=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FWgustavo&layout=compact&theme=dracula&hide_border=true)
 ### Tecnologias do dia a dia
