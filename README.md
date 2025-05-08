@@ -1,6 +1,10 @@
 ### Olá! Eu sou o Gustavo Merschbacher 🤙 
 #### Atualmente estou no 3° ano da Etec, cursando Desenvolvimento de Sistemas
 
+<span align="center">
+  <img align="center" margin="2" src="https://github-profile-trophy.vercel.app/?username=FWgustavo&margin-w=2&margin-h=15&theme=juicyfresh&no-frame=true">
+</span>
+
 [![@Instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gust4v0_s4mp4i0/)
 [![@Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-merschbacher-533ab82b5/)
 [![@Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white
