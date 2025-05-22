@@ -22,3 +22,9 @@
   <img align="center" alt="C#" height="40" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg">
   <img align="center" alt="C#" height="30" src="https://logodownload.org/wp-content/uploads/2016/10/php-logo.png">
 </div>
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/fwgustavo/fwgustavo/output/github-contribution-grid-snake.svg">
+</picture>
