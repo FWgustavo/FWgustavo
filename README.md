@@ -18,7 +18,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="MySQL" height="50" src="https://marcas-logos.net/wp-content/uploads/2020/11/MySQL-logo-600x400.png">
+  <img align="center" alt="MySQL" height="50" src="https://mundophp.com.br/wp-content/uploads/2024/04/mysql.png">
   <img align="center" alt="C#" height="40" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg">
   <img align="center" alt="C#" height="30" src="https://logodownload.org/wp-content/uploads/2016/10/php-logo.png">
 </div>
